@@ -8,3 +8,10 @@ img{
 .escola-div-conteudo{
     width: 35%;
 }
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.escola-texto-um{
+    color:aqua;
+}
